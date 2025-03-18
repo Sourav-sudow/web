@@ -1,0 +1,20 @@
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-Cors
+Flask-JWT-Extended
+numpy
+pandas
+Pillow
+PyPDF2
+reportlab
+gunicorn
+python-dotenv
+bcrypt
+Werkzeug
+psycopg2-binary
+pytest
+# Temporarily commenting out problematic packages
+# opencv-python
+# dlib
+# face-recognition
